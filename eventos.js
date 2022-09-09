@@ -5,7 +5,7 @@ const menu=document.querySelector(".desktop-menu")
 const menuicon=document.querySelector(".menu")
 const menuobile=document.querySelector(".mobile-menu") 
 const  carrito=document.querySelector(".carrito")
-const  detalleventa=document.querySelector(".product-detail")
+const  detalleventa=document.querySelector("#shopping_card")
 const   cardscontainer= document.querySelector(".cards-container");
 
 //EVENTOS DE CLICK DEL MENU
